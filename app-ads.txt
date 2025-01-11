@@ -7,7 +7,7 @@ bidmachine.io, 248691, DIRECT
 #Replace the Publisher_ID below with your Admob Publisher ID
 google.com, pub-1307064777364612, DIRECT, f08c47fec0942fa0
  
-
+facebook.com, 2485950221447524, DIRECT, c3e20eee3f780d68
 
 #Resellers
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
